@@ -51,6 +51,6 @@ Where:
 The Jaccard Index ranges from 0 to 1, where 0 indicates no similarity between the sets, and 1 indicates that the sets are identical.
 
 
-
-
+### Visualizing some results
+![Jaccard Index Formula](preds/download.png)
 
