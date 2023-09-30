@@ -1,0 +1,16 @@
+mlflow==2.7.1
+astunparse==1.6.3
+cffi==1.15.1
+cloudpickle==2.2.1
+defusedxml==0.7.1
+numpy==1.23.5
+opt-einsum==3.3.0
+packaging==23.1
+pandas==1.5.3
+pathlib==1.0.1
+pydot==1.4.2
+pyyaml==6.0.1
+requests==2.31.0
+torch==2.0.1
+torchvision==0.15.2
+tqdm==4.66.1
