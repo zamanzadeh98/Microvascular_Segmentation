@@ -24,12 +24,15 @@ Transformer (Hopefully in the near future!)
 
 ## How to use?
 **Download**
+
 ```git clone https://github.com/zamanzadeh98/Microvascular_Segmentation.git```
 
 **Installing packages**
+
 ```!pip install requirements.txt```
 
 Then, you can simply replace the model and image paths in the following scripts
+
 ```python your_script.py /path/to/your/model.pth /path/to/your/data.jpg```
 
 
@@ -52,5 +55,5 @@ The Jaccard Index ranges from 0 to 1, where 0 indicates no similarity between th
 
 
 ### Visualizing some results
-![Jaccard Index Formula](preds/download.png)
+![Jaccard Index Formula](pictures/preds/download.png)
 
